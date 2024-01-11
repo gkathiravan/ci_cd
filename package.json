@@ -1,0 +1,22 @@
+{
+  "name": "ci_cd",
+  "version": "1.0.0",
+  "description": "A sample for CI CD",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkathiravan/ci_cd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gkathiravan/ci_cd/issues"
+  },
+  "homepage": "https://github.com/gkathiravan/ci_cd#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.8"
+  }
+}
